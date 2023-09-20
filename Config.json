@@ -1,0 +1,10 @@
+{
+    "SwitchName": "Internal",
+    "Network": "10.69.42.0",
+    "DFGW": "10.69.42.254",
+    "PrefixLength": "24",
+    "DomainName": "domain.test",
+    "DomainNetbiosName": "DOMAIN",
+    "SafeModeAdministratorPassword":  "SuperS3cr3t!",
+    "IsoFolder": "C:\\Source\\ISO"
+}

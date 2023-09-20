@@ -1,0 +1,6 @@
+{
+    "ComputerName":  "pycno",
+    "SafeModeAdministratorPassword":  "SuperS3cr3t!",
+    "DomainName": "domain.test",
+    "DomainNetbiosName": "DOMAIN"
+}

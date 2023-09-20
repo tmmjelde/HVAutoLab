@@ -1,0 +1,9 @@
+Add domain controller settings for:
+
+#Set static IP
+#Create DHCP Scope
+#Enable DHCP Scope
+#Configure DNS Forwarder
+#Create AD Sites and Services / Subnets
+Create AD Users, groups and GPOs
+Link GPOs

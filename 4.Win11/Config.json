@@ -1,0 +1,6 @@
+{
+    "ComputerName":  "win11",
+    "SafeModeAdministratorPassword":  "SuperS3cr3t!",
+    "DomainName": "domain.test",
+    "DomainNetbiosName": "DOMAIN"
+}

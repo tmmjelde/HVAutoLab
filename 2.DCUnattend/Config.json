@@ -1,0 +1,13 @@
+{
+    "ComputerName":  "DC",
+    "Features":  "AD-Domain-Services,DHCP,DNS,GPMC,RSAT-AD-PowerShell,RSAT-AD-AdminCenter,RSAT-ADDS-Tools,RSAT-DHCP,RSAT-DNS-Server,RSAT-DFS-Mgmt-Con",
+    "SafeModeAdministratorPassword":  "SuperS3cr3t!",
+    "DomainName": "domain.test",
+    "DomainNetbiosName": "DOMAIN",
+    "IPAddress": "10.69.42.231",
+    "PrefixLength": "24",
+    "DefaultGateway": "10.69.42.254",
+    "MemoryStartupGB": 4,
+    "ProcessorCount": 2,
+    "OSDiskSizeGB": 64
+}
